@@ -77,7 +77,7 @@ const styles = StyleSheet.create({
     marginBottom: 30,
   },
   input: {
-    height: 55,
+    height: 5,
     borderWidth: 1,
     borderColor: '#ddd',
     borderRadius: 10,
